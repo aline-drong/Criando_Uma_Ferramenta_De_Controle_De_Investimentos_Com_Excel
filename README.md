@@ -23,3 +23,6 @@ A planilha apresenta uma divisão sugerida de investimentos entre os tipos de FI
 - FOFs
 - Desenvolvimento
 - Hotelarias
+
+# Aviso de Privacidade
+Esta planilha contém informações fictícias com fins educacionais. Caso utilize para fins reais, certifique-se de proteger seus dados pessoais e sensíveis de forma adequada.
